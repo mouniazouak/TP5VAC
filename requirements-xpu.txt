@@ -1,0 +1,9 @@
+--index-url https://download.pytorch.org/whl/xpu
+torch
+torchvision
+torchaudio
+av
+numpy
+Pillow
+matplotlib
+scikit-learn

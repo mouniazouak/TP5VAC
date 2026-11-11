@@ -1,0 +1,6 @@
+# Install torch and torchvision separately for the selected accelerator.
+av
+numpy
+Pillow
+matplotlib
+scikit-learn

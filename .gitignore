@@ -1,0 +1,28 @@
+# Données UCF101 et fichiers générés volumineux
+data/
+frames/
+misclassified/
+*.zip
+*.npy
+
+# Poids et tenseurs PyTorch
+*.pth
+*.pt
+
+# Fichiers générés pendant l'exécution
+manifest.csv
+learning_history*.json
+__pycache__/
+*.pyc
+
+# Environnement local
+.venv/
+venv/
+env/
+.env
+
+# Fichiers système / éditeur
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
